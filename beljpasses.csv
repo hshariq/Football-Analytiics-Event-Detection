@@ -1,0 +1,160 @@
+Starting_Point,Ending_Point,PassCompletion
+"(96, 70)","(100, 68)",pass completed
+"(100, 68)","(100, 68)",no pass attempted
+"(99, 68)","(92, 62)",pass incomplete
+"(94, 61)","(93, 49)",pass incomplete
+"(93, 49)","(98, 63)",pass completed
+"(98, 63)","(101, 58)",pass incomplete
+"(101, 57)","(101, 57)",no pass attempted
+"(101, 57)","(101, 57)",no pass attempted
+"(101, 57)","(94, 63)",pass completed
+"(94, 63)","(93, 49)",pass completed
+"(93, 49)","(101, 57)",pass completed
+"(102, 56)","(102, 56)",no pass attempted
+"(102, 56)","(94, 49)",pass completed
+"(94, 49)","(97, 65)",pass incomplete
+"(97, 65)","(108, 52)",pass completed
+"(109, 50)","(110, 46)",pass completed
+"(108, 47)","(108, 47)",no pass attempted
+"(106, 49)","(103, 52)",pass completed
+"(104, 53)","(101, 59)",pass completed
+"(101, 59)","(96, 60)",pass completed
+"(96, 60)","(92, 58)",pass completed
+"(92, 58)","(92, 58)",no pass attempted
+"(92, 58)","(92, 58)",no pass attempted
+"(92, 58)","(92, 58)",no pass attempted
+"(92, 58)","(91, 64)",pass completed
+"(91, 64)","(90, 67)",pass completed
+"(89, 68)","(83, 80)",pass completed
+"(83, 80)","(83, 80)",no pass attempted
+"(83, 80)","(83, 80)",no pass attempted
+"(83, 80)","(83, 80)",no pass attempted
+"(83, 80)","(83, 80)",no pass attempted
+"(83, 80)","(83, 41)",pass completed
+"(83, 41)","(82, 81)",pass completed
+"(82, 81)","(79, 81)",pass completed
+"(80, 80)","(80, 80)",no pass attempted
+"(80, 80)","(80, 80)",no pass attempted
+"(82, 82)","(83, 79)",pass completed
+"(83, 79)","(80, 81)",pass completed
+"(80, 81)","(80, 81)",no pass attempted
+"(80, 81)","(82, 83)",pass incomplete
+"(82, 83)","(82, 83)",no pass attempted
+"(80, 82)","(80, 82)",no pass attempted
+"(81, 82)","(81, 82)",no pass attempted
+"(81, 82)","(81, 82)",no pass attempted
+"(81, 82)","(81, 82)",no pass attempted
+"(81, 82)","(84, 83)",pass completed
+"(84, 83)","(84, 83)",no pass attempted
+"(84, 83)","(88, 81)",pass incomplete
+"(88, 81)","(88, 81)",no pass attempted
+"(87, 81)","(98, 83)",pass completed
+"(98, 83)","(98, 83)",no pass attempted
+"(99, 83)","(99, 83)",no pass attempted
+"(99, 83)","(99, 83)",no pass attempted
+"(99, 82)","(99, 82)",no pass attempted
+"(99, 82)","(99, 82)",no pass attempted
+"(99, 82)","(99, 82)",no pass attempted
+"(100, 82)","(70, 45)",pass completed
+"(70, 46)","(70, 46)",no pass attempted
+"(70, 45)","(99, 83)",pass incomplete
+"(99, 83)","(99, 83)",no pass attempted
+"(99, 83)","(99, 83)",no pass attempted
+"(99, 83)","(99, 83)",no pass attempted
+"(99, 83)","(99, 83)",no pass attempted
+"(100, 82)","(100, 82)",no pass attempted
+"(100, 82)","(100, 82)",no pass attempted
+"(100, 82)","(100, 82)",no pass attempted
+"(100, 81)","(100, 81)",no pass attempted
+"(100, 81)","(100, 81)",no pass attempted
+"(100, 81)","(100, 81)",no pass attempted
+"(100, 81)","(100, 81)",no pass attempted
+"(101, 81)","(101, 81)",no pass attempted
+"(101, 81)","(101, 81)",no pass attempted
+"(102, 80)","(103, 70)",pass completed
+"(103, 71)","(100, 61)",pass completed
+"(100, 61)","(100, 61)",no pass attempted
+"(100, 61)","(89, 57)",pass incomplete
+"(89, 56)","(68, 60)",pass completed
+"(69, 60)","(69, 60)",no pass attempted
+"(69, 60)","(69, 60)",no pass attempted
+"(69, 59)","(69, 59)",no pass attempted
+"(69, 60)","(69, 60)",no pass attempted
+"(69, 60)","(69, 60)",no pass attempted
+"(69, 60)","(69, 60)",no pass attempted
+"(69, 59)","(73, 62)",pass completed
+"(73, 62)","(69, 59)",pass incomplete
+"(69, 59)","(69, 59)",no pass attempted
+"(69, 59)","(69, 59)",no pass attempted
+"(69, 59)","(70, 47)",pass completed
+"(70, 47)","(70, 47)",no pass attempted
+"(70, 47)","(70, 47)",no pass attempted
+"(70, 47)","(70, 47)",no pass attempted
+"(69, 46)","(69, 46)",no pass attempted
+"(69, 45)","(69, 45)",no pass attempted
+"(69, 44)","(69, 44)",no pass attempted
+"(69, 44)","(69, 44)",no pass attempted
+"(69, 44)","(69, 44)",no pass attempted
+"(69, 42)","(69, 42)",no pass attempted
+"(70, 41)","(70, 41)",no pass attempted
+"(70, 41)","(70, 41)",no pass attempted
+"(70, 41)","(70, 41)",no pass attempted
+"(70, 41)","(70, 41)",no pass attempted
+"(70, 39)","(83, 44)",pass completed
+"(83, 44)","(83, 44)",no pass attempted
+"(83, 45)","(83, 45)",no pass attempted
+"(82, 44)","(79, 42)",pass completed
+"(79, 42)","(82, 43)",pass completed
+"(82, 43)","(79, 42)",pass completed
+"(82, 43)","(82, 43)",no pass attempted
+"(80, 44)","(86, 43)",pass completed
+"(86, 43)","(74, 47)",pass completed
+"(74, 47)","(82, 45)",pass completed
+"(82, 45)","(82, 45)",no pass attempted
+"(83, 44)","(83, 44)",no pass attempted
+"(83, 44)","(86, 42)",pass completed
+"(86, 42)","(83, 44)",pass completed
+"(84, 44)","(84, 44)",no pass attempted
+"(84, 44)","(84, 44)",no pass attempted
+"(84, 44)","(82, 41)",pass incomplete
+"(82, 41)","(82, 41)",no pass attempted
+"(82, 40)","(82, 40)",no pass attempted
+"(82, 39)","(82, 39)",no pass attempted
+"(82, 39)","(86, 40)",pass completed
+"(86, 40)","(97, 47)",pass completed
+"(98, 48)","(85, 44)",pass completed
+"(85, 44)","(85, 44)",no pass attempted
+"(86, 44)","(100, 50)",pass completed
+"(100, 50)","(102, 48)",pass completed
+"(102, 48)","(104, 45)",pass completed
+"(104, 45)","(104, 45)",no pass attempted
+"(104, 45)","(100, 42)",pass completed
+"(100, 42)","(100, 42)",no pass attempted
+"(100, 42)","(100, 42)",no pass attempted
+"(100, 42)","(96, 47)",pass completed
+"(97, 48)","(97, 48)",no pass attempted
+"(97, 48)","(97, 48)",no pass attempted
+"(97, 48)","(97, 48)",no pass attempted
+"(97, 48)","(92, 47)",pass completed
+"(92, 47)","(92, 47)",no pass attempted
+"(92, 48)","(92, 48)",no pass attempted
+"(93, 49)","(93, 49)",no pass attempted
+"(93, 49)","(93, 49)",no pass attempted
+"(93, 49)","(93, 49)",no pass attempted
+"(93, 49)","(93, 49)",no pass attempted
+"(93, 49)","(94, 52)",pass incomplete
+"(94, 52)","(94, 52)",no pass attempted
+"(94, 52)","(92, 48)",pass completed
+"(92, 48)","(92, 48)",no pass attempted
+"(92, 48)","(92, 48)",no pass attempted
+"(92, 48)","(93, 52)",pass completed
+"(93, 52)","(92, 49)",pass completed
+"(91, 49)","(91, 49)",no pass attempted
+"(92, 49)","(92, 49)",no pass attempted
+"(92, 49)","(92, 49)",no pass attempted
+"(92, 48)","(92, 48)",no pass attempted
+"(92, 48)","(92, 48)",no pass attempted
+"(92, 48)","(92, 48)",no pass attempted
+"(93, 47)","(80, 48)",pass completed
+"(80, 48)","(98, 37)",pass completed
+"(98, 37)","(100, 46)",pass completed

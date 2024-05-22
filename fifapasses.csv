@@ -1,0 +1,399 @@
+Starting_Point,Ending_Point,PassCompletion,Team,TypeOfPass
+"(23, 77)","(29, 46)",pass completed,Green,Normal Pass
+"(29, 46)","(23, 77)",pass incomplete,Green,Normal Pass
+"(23, 77)","(23, 77)",no pass attempted,Blue,Normal Pass
+"(23, 77)","(23, 77)",no pass attempted,Blue,Normal Pass
+"(22, 77)","(22, 77)",no pass attempted,Blue,Normal Pass
+"(22, 77)","(22, 77)",no pass attempted,Blue,Normal Pass
+"(22, 77)","(22, 77)",no pass attempted,Blue,Normal Pass
+"(22, 77)","(22, 77)",no pass attempted,Blue,Normal Pass
+"(22, 77)","(22, 77)",no pass attempted,Blue,Normal Pass
+"(21, 77)","(21, 77)",no pass attempted,Green,Normal Pass
+"(21, 77)","(21, 77)",no pass attempted,Blue,Normal Pass
+"(22, 77)","(22, 77)",no pass attempted,Blue,Normal Pass
+"(22, 77)","(22, 77)",no pass attempted,Blue,Normal Pass
+"(22, 77)","(22, 77)",no pass attempted,Blue,Normal Pass
+"(22, 78)","(22, 78)",no pass attempted,Green,Normal Pass
+"(21, 78)","(21, 78)",no pass attempted,Green,Normal Pass
+"(22, 78)","(22, 78)",no pass attempted,Green,Normal Pass
+"(22, 78)","(22, 78)",no pass attempted,Blue,Normal Pass
+"(22, 78)","(22, 78)",no pass attempted,Blue,Normal Pass
+"(22, 78)","(22, 78)",no pass attempted,Blue,Normal Pass
+"(22, 78)","(22, 78)",no pass attempted,Blue,Normal Pass
+"(22, 78)","(22, 78)",no pass attempted,Blue,Normal Pass
+"(22, 78)","(42, 76)",pass completed,Blue,Normal Pass
+"(42, 76)","(22, 78)",pass completed,Blue,Normal Pass
+"(22, 78)","(41, 77)",pass completed,Blue,Normal Pass
+"(42, 78)","(42, 78)",no pass attempted,Green,Normal Pass
+"(42, 80)","(42, 80)",no pass attempted,Blue,Normal Pass
+"(42, 80)","(42, 80)",no pass attempted,Blue,Normal Pass
+"(42, 80)","(42, 80)",no pass attempted,Blue,Normal Pass
+"(42, 81)","(42, 81)",no pass attempted,Blue,Normal Pass
+"(42, 81)","(42, 81)",no pass attempted,Blue,Normal Pass
+"(42, 81)","(42, 81)",no pass attempted,Blue,Normal Pass
+"(41, 81)","(41, 81)",no pass attempted,Blue,Normal Pass
+"(41, 81)","(41, 81)",no pass attempted,Green,Normal Pass
+"(41, 85)","(45, 61)",pass completed,Blue,Normal Pass
+"(45, 61)","(41, 87)",pass completed,Blue,Normal Pass
+"(41, 86)","(41, 86)",no pass attempted,Green,Normal Pass
+"(41, 86)","(41, 86)",no pass attempted,Green,Normal Pass
+"(41, 86)","(41, 86)",no pass attempted,Green,Normal Pass
+"(41, 86)","(41, 86)",no pass attempted,Green,Normal Pass
+"(40, 86)","(40, 86)",no pass attempted,Green,Normal Pass
+"(40, 86)","(40, 86)",no pass attempted,Green,Normal Pass
+"(40, 86)","(40, 86)",no pass attempted,Green,Normal Pass
+"(40, 86)","(40, 86)",no pass attempted,Green,Normal Pass
+"(40, 86)","(40, 86)",no pass attempted,Green,Normal Pass
+"(40, 86)","(32, 70)",pass completed,Green,Normal Pass
+"(32, 70)","(46, 74)",pass completed,Green,Normal Pass
+"(46, 74)","(32, 69)",pass completed,Green,Normal Pass
+"(32, 69)","(32, 69)",no pass attempted,Green,Normal Pass
+"(33, 69)","(33, 69)",no pass attempted,Green,Normal Pass
+"(35, 68)","(35, 68)",no pass attempted,Blue,Normal Pass
+"(32, 68)","(32, 68)",no pass attempted,Green,Normal Pass
+"(33, 70)","(33, 70)",no pass attempted,Green,Normal Pass
+"(33, 70)","(33, 70)",no pass attempted,Green,Normal Pass
+"(33, 70)","(33, 70)",no pass attempted,Green,Normal Pass
+"(33, 70)","(33, 70)",no pass attempted,Green,Normal Pass
+"(33, 70)","(33, 70)",no pass attempted,Green,Normal Pass
+"(36, 69)","(36, 69)",no pass attempted,Blue,Normal Pass
+"(36, 69)","(36, 69)",no pass attempted,Blue,Normal Pass
+"(36, 69)","(36, 69)",no pass attempted,Blue,Normal Pass
+"(36, 69)","(36, 69)",no pass attempted,Blue,Normal Pass
+"(36, 69)","(36, 69)",no pass attempted,Blue,Normal Pass
+"(36, 69)","(36, 69)",no pass attempted,Blue,Normal Pass
+"(36, 69)","(36, 69)",no pass attempted,Blue,Normal Pass
+"(36, 69)","(36, 69)",no pass attempted,Blue,Normal Pass
+"(36, 69)","(36, 69)",no pass attempted,Blue,Normal Pass
+"(36, 69)","(36, 69)",no pass attempted,Blue,Normal Pass
+"(36, 69)","(36, 69)",no pass attempted,Blue,Normal Pass
+"(36, 67)","(36, 67)",no pass attempted,Blue,Normal Pass
+"(37, 69)","(37, 69)",no pass attempted,Blue,Normal Pass
+"(37, 70)","(37, 70)",no pass attempted,Blue,Normal Pass
+"(37, 70)","(37, 70)",no pass attempted,Blue,Normal Pass
+"(37, 70)","(37, 70)",no pass attempted,Blue,Normal Pass
+"(39, 72)","(39, 72)",no pass attempted,Blue,Normal Pass
+"(39, 72)","(39, 72)",no pass attempted,Blue,Normal Pass
+"(39, 72)","(39, 72)",no pass attempted,Blue,Normal Pass
+"(39, 72)","(39, 72)",no pass attempted,Blue,Normal Pass
+"(39, 72)","(39, 72)",no pass attempted,Blue,Normal Pass
+"(39, 72)","(39, 72)",no pass attempted,Blue,Normal Pass
+"(37, 67)","(37, 67)",no pass attempted,Blue,Normal Pass
+"(37, 67)","(37, 67)",no pass attempted,Blue,Normal Pass
+"(37, 67)","(37, 67)",no pass attempted,Blue,Normal Pass
+"(37, 67)","(37, 67)",no pass attempted,Blue,Normal Pass
+"(37, 67)","(37, 67)",no pass attempted,Blue,Normal Pass
+"(37, 67)","(37, 67)",no pass attempted,Blue,Normal Pass
+"(37, 67)","(37, 67)",no pass attempted,Blue,Normal Pass
+"(34, 66)","(34, 66)",no pass attempted,Green,Normal Pass
+"(35, 64)","(35, 64)",no pass attempted,Green,Normal Pass
+"(35, 64)","(35, 64)",no pass attempted,Green,Normal Pass
+"(35, 64)","(35, 64)",no pass attempted,Green,Normal Pass
+"(42, 65)","(42, 65)",no pass attempted,Green,Normal Pass
+"(42, 65)","(42, 65)",no pass attempted,Green,Normal Pass
+"(42, 65)","(42, 65)",no pass attempted,Green,Normal Pass
+"(42, 65)","(42, 65)",no pass attempted,Green,Normal Pass
+"(42, 65)","(42, 65)",no pass attempted,Green,Normal Pass
+"(42, 65)","(42, 65)",no pass attempted,Green,Normal Pass
+"(42, 65)","(42, 65)",no pass attempted,Green,Normal Pass
+"(42, 65)","(42, 65)",no pass attempted,Green,Normal Pass
+"(42, 65)","(42, 65)",no pass attempted,Green,Normal Pass
+"(45, 58)","(61, 64)",pass incomplete,Blue,Normal Pass
+"(61, 64)","(46, 58)",pass completed,Green,Normal Pass
+"(46, 58)","(61, 63)",pass completed,Green,Normal Pass
+"(61, 63)","(48, 58)",pass completed,Green,Normal Pass
+"(48, 58)","(60, 63)",pass completed,Green,Normal Pass
+"(61, 61)","(61, 61)",no pass attempted,Green,Normal Pass
+"(63, 64)","(63, 64)",no pass attempted,Green,Normal Pass
+"(62, 63)","(48, 75)",pass completed,Green,Normal Pass
+"(47, 74)","(47, 74)",no pass attempted,Green,Normal Pass
+"(45, 74)","(45, 74)",no pass attempted,Green,Normal Pass
+"(48, 74)","(48, 74)",no pass attempted,Green,Normal Pass
+"(48, 74)","(48, 74)",no pass attempted,Green,Normal Pass
+"(48, 74)","(61, 67)",pass completed,Green,Normal Pass
+"(61, 67)","(61, 67)",no pass attempted,Green,Normal Pass
+"(61, 67)","(61, 67)",no pass attempted,Green,Normal Pass
+"(61, 67)","(61, 67)",no pass attempted,Green,Normal Pass
+"(61, 66)","(61, 66)",no pass attempted,Green,Normal Pass
+"(61, 66)","(61, 66)",no pass attempted,Green,Normal Pass
+"(61, 66)","(61, 66)",no pass attempted,Green,Normal Pass
+"(61, 66)","(61, 66)",no pass attempted,Green,Normal Pass
+"(61, 66)","(61, 66)",no pass attempted,Green,Normal Pass
+"(61, 66)","(61, 66)",no pass attempted,Green,Normal Pass
+"(61, 66)","(61, 66)",no pass attempted,Green,Normal Pass
+"(61, 66)","(61, 66)",no pass attempted,Green,Normal Pass
+"(61, 66)","(61, 66)",no pass attempted,Green,Normal Pass
+"(61, 66)","(61, 66)",no pass attempted,Green,Normal Pass
+"(61, 66)","(61, 66)",no pass attempted,Green,Normal Pass
+"(61, 67)","(61, 67)",no pass attempted,Green,Normal Pass
+"(60, 68)","(60, 68)",no pass attempted,Green,Normal Pass
+"(60, 69)","(60, 69)",no pass attempted,Green,Normal Pass
+"(60, 69)","(60, 69)",no pass attempted,Green,Normal Pass
+"(60, 69)","(60, 69)",no pass attempted,Green,Normal Pass
+"(60, 69)","(60, 69)",no pass attempted,Green,Normal Pass
+"(60, 69)","(60, 69)",no pass attempted,Green,Normal Pass
+"(59, 67)","(59, 67)",no pass attempted,Green,Normal Pass
+"(59, 67)","(59, 67)",no pass attempted,Green,Normal Pass
+"(59, 67)","(59, 67)",no pass attempted,Green,Normal Pass
+"(59, 61)","(59, 61)",no pass attempted,Blue,Normal Pass
+"(60, 61)","(60, 61)",no pass attempted,Blue,Normal Pass
+"(60, 61)","(60, 61)",no pass attempted,Blue,Normal Pass
+"(60, 61)","(60, 61)",no pass attempted,Blue,Normal Pass
+"(60, 61)","(68, 55)",pass incomplete,Blue,Normal Pass
+"(68, 55)","(68, 55)",no pass attempted,Green,Normal Pass
+"(68, 55)","(68, 55)",no pass attempted,Green,Normal Pass
+"(68, 55)","(68, 55)",no pass attempted,Green,Normal Pass
+"(68, 55)","(68, 55)",no pass attempted,Green,Normal Pass
+"(68, 56)","(68, 56)",no pass attempted,Green,Normal Pass
+"(68, 55)","(68, 55)",no pass attempted,Green,Normal Pass
+"(68, 56)","(68, 56)",no pass attempted,Green,Normal Pass
+"(69, 57)","(69, 57)",no pass attempted,Green,Normal Pass
+"(69, 57)","(69, 57)",no pass attempted,Green,Normal Pass
+"(69, 57)","(69, 57)",no pass attempted,Green,Normal Pass
+"(73, 57)","(73, 57)",no pass attempted,Blue,Normal Pass
+"(73, 57)","(73, 57)",no pass attempted,Blue,Normal Pass
+"(73, 57)","(73, 57)",no pass attempted,Blue,Normal Pass
+"(73, 56)","(73, 56)",no pass attempted,Blue,Normal Pass
+"(77, 49)","(88, 45)",pass completed,Blue,Normal Pass
+"(88, 45)","(71, 31)",pass incomplete,Blue,Normal Pass
+"(71, 31)","(77, 49)",pass completed,Green,Normal Pass
+"(77, 49)","(71, 30)",pass completed,Green,Normal Pass
+"(71, 30)","(71, 30)",no pass attempted,Green,Normal Pass
+"(72, 31)","(72, 31)",no pass attempted,Green,Normal Pass
+"(79, 27)","(79, 27)",no pass attempted,Green,Normal Pass
+"(79, 27)","(79, 27)",no pass attempted,Green,Normal Pass
+"(79, 27)","(79, 27)",no pass attempted,Green,Normal Pass
+"(79, 27)","(79, 27)",no pass attempted,Green,Normal Pass
+"(79, 27)","(79, 27)",no pass attempted,Green,Normal Pass
+"(79, 26)","(79, 26)",no pass attempted,Green,Normal Pass
+"(79, 26)","(79, 26)",no pass attempted,Green,Normal Pass
+"(79, 26)","(79, 26)",no pass attempted,Green,Normal Pass
+"(79, 26)","(79, 26)",no pass attempted,Green,Normal Pass
+"(79, 26)","(79, 26)",no pass attempted,Green,Normal Pass
+"(81, 26)","(81, 26)",no pass attempted,Green,Normal Pass
+"(81, 26)","(81, 26)",no pass attempted,Green,Normal Pass
+"(81, 26)","(81, 26)",no pass attempted,Green,Normal Pass
+"(81, 26)","(81, 26)",no pass attempted,Green,Normal Pass
+"(81, 26)","(81, 26)",no pass attempted,Green,Normal Pass
+"(81, 26)","(81, 26)",no pass attempted,Green,Normal Pass
+"(81, 26)","(81, 26)",no pass attempted,Green,Normal Pass
+"(81, 26)","(81, 26)",no pass attempted,Green,Normal Pass
+"(81, 26)","(81, 26)",no pass attempted,Green,Normal Pass
+"(82, 25)","(82, 25)",no pass attempted,Green,Normal Pass
+"(82, 25)","(82, 25)",no pass attempted,Green,Normal Pass
+"(82, 25)","(82, 25)",no pass attempted,Green,Normal Pass
+"(83, 25)","(83, 25)",no pass attempted,Green,Normal Pass
+"(83, 25)","(83, 25)",no pass attempted,Green,Normal Pass
+"(83, 25)","(83, 25)",no pass attempted,Green,Normal Pass
+"(83, 25)","(79, 46)",pass incomplete,Green,Normal Pass
+"(79, 46)","(83, 26)",pass completed,Blue,Normal Pass
+"(83, 26)","(95, 36)",pass completed,Blue,Normal Pass
+"(95, 36)","(79, 46)",pass completed,Blue,Normal Pass
+"(79, 46)","(95, 36)",pass completed,Blue,Normal Pass
+"(95, 36)","(95, 36)",no pass attempted,Blue,Normal Pass
+"(95, 36)","(95, 36)",no pass attempted,Blue,Normal Pass
+"(95, 36)","(95, 36)",no pass attempted,Blue,Normal Pass
+"(95, 36)","(95, 36)",no pass attempted,Blue,Normal Pass
+"(95, 36)","(95, 36)",no pass attempted,Blue,Normal Pass
+"(94, 37)","(94, 37)",no pass attempted,Blue,Normal Pass
+"(94, 37)","(94, 37)",no pass attempted,Blue,Normal Pass
+"(94, 37)","(94, 37)",no pass attempted,Blue,Normal Pass
+"(93, 37)","(93, 37)",no pass attempted,Blue,Normal Pass
+"(93, 37)","(93, 37)",no pass attempted,Blue,Normal Pass
+"(93, 37)","(93, 37)",no pass attempted,Blue,Normal Pass
+"(91, 37)","(91, 37)",no pass attempted,Blue,Normal Pass
+"(91, 37)","(91, 37)",no pass attempted,Blue,Normal Pass
+"(91, 37)","(91, 37)",no pass attempted,Blue,Normal Pass
+"(90, 37)","(90, 37)",no pass attempted,Blue,Normal Pass
+"(90, 37)","(90, 37)",no pass attempted,Blue,Normal Pass
+"(90, 37)","(90, 37)",no pass attempted,Blue,Normal Pass
+"(90, 37)","(77, 44)",pass incomplete,Blue,Normal Pass
+"(77, 44)","(90, 37)",pass completed,Green,Normal Pass
+"(90, 37)","(75, 62)",pass incomplete,Green,Normal Pass
+"(75, 62)","(75, 62)",no pass attempted,Blue,Normal Pass
+"(75, 62)","(75, 62)",no pass attempted,Blue,Normal Pass
+"(75, 62)","(75, 62)",no pass attempted,Blue,Normal Pass
+"(75, 62)","(75, 62)",no pass attempted,Blue,Normal Pass
+"(75, 62)","(75, 62)",no pass attempted,Blue,Normal Pass
+"(75, 62)","(75, 45)",pass incomplete,Blue,Normal Pass
+"(75, 45)","(75, 62)",pass completed,Green,Normal Pass
+"(75, 62)","(75, 62)",no pass attempted,Blue,Normal Pass
+"(75, 62)","(75, 62)",no pass attempted,Blue,Normal Pass
+"(75, 61)","(75, 61)",no pass attempted,Blue,Normal Pass
+"(76, 62)","(73, 43)",pass completed,Blue,Normal Pass
+"(73, 44)","(73, 44)",no pass attempted,Blue,Normal Pass
+"(73, 43)","(55, 53)",pass completed,Blue,Normal Pass
+"(55, 53)","(55, 53)",no pass attempted,Blue,Normal Pass
+"(55, 53)","(55, 53)",no pass attempted,Blue,Normal Pass
+"(55, 53)","(55, 53)",no pass attempted,Blue,Normal Pass
+"(55, 53)","(55, 53)",no pass attempted,Blue,Normal Pass
+"(55, 53)","(55, 53)",no pass attempted,Blue,Normal Pass
+"(55, 52)","(55, 52)",no pass attempted,Blue,Normal Pass
+"(55, 52)","(55, 52)",no pass attempted,Blue,Normal Pass
+"(55, 53)","(55, 53)",no pass attempted,Blue,Normal Pass
+"(55, 53)","(55, 53)",no pass attempted,Blue,Normal Pass
+"(55, 54)","(55, 54)",no pass attempted,Blue,Normal Pass
+"(55, 54)","(55, 54)",no pass attempted,Blue,Normal Pass
+"(55, 54)","(55, 54)",no pass attempted,Blue,Normal Pass
+"(56, 54)","(56, 54)",no pass attempted,Blue,Normal Pass
+"(55, 54)","(55, 54)",no pass attempted,Blue,Normal Pass
+"(55, 54)","(55, 54)",no pass attempted,Blue,Normal Pass
+"(55, 54)","(55, 54)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Blue,Normal Pass
+"(54, 55)","(54, 55)",no pass attempted,Blue,Normal Pass
+"(54, 55)","(54, 55)",no pass attempted,Blue,Normal Pass
+"(54, 55)","(54, 55)",no pass attempted,Blue,Normal Pass
+"(54, 55)","(54, 55)",no pass attempted,Blue,Normal Pass
+"(54, 55)","(54, 55)",no pass attempted,Blue,Normal Pass
+"(54, 55)","(54, 55)",no pass attempted,Blue,Normal Pass
+"(54, 55)","(54, 55)",no pass attempted,Blue,Normal Pass
+"(54, 55)","(54, 55)",no pass attempted,Blue,Normal Pass
+"(54, 55)","(54, 55)",no pass attempted,Blue,Normal Pass
+"(54, 55)","(54, 55)",no pass attempted,Blue,Normal Pass
+"(54, 55)","(54, 55)",no pass attempted,Blue,Normal Pass
+"(54, 55)","(54, 55)",no pass attempted,Blue,Normal Pass
+"(51, 55)","(51, 55)",no pass attempted,Green,Normal Pass
+"(51, 55)","(51, 55)",no pass attempted,Green,Normal Pass
+"(51, 55)","(51, 55)",no pass attempted,Green,Normal Pass
+"(51, 55)","(51, 55)",no pass attempted,Green,Normal Pass
+"(51, 55)","(51, 55)",no pass attempted,Green,Normal Pass
+"(51, 55)","(51, 55)",no pass attempted,Green,Normal Pass
+"(51, 55)","(51, 55)",no pass attempted,Green,Normal Pass
+"(55, 55)","(55, 55)",no pass attempted,Green,Normal Pass
+"(52, 58)","(52, 58)",no pass attempted,Blue,Normal Pass
+"(52, 58)","(52, 58)",no pass attempted,Blue,Normal Pass
+"(52, 58)","(52, 58)",no pass attempted,Blue,Normal Pass
+"(52, 58)","(52, 58)",no pass attempted,Blue,Normal Pass
+"(52, 58)","(52, 58)",no pass attempted,Blue,Normal Pass
+"(52, 58)","(52, 58)",no pass attempted,Blue,Normal Pass
+"(52, 58)","(52, 58)",no pass attempted,Blue,Normal Pass
+"(52, 59)","(61, 44)",pass completed,Blue,Normal Pass
+"(61, 44)","(52, 59)",pass completed,Blue,Normal Pass
+"(52, 59)","(61, 44)",pass completed,Blue,Normal Pass
+"(61, 44)","(52, 59)",pass completed,Blue,Normal Pass
+"(48, 63)","(48, 63)",no pass attempted,Blue,Normal Pass
+"(48, 63)","(48, 63)",no pass attempted,Blue,Normal Pass
+"(48, 63)","(48, 63)",no pass attempted,Blue,Normal Pass
+"(47, 63)","(47, 63)",no pass attempted,Blue,Normal Pass
+"(47, 63)","(47, 63)",no pass attempted,Blue,Normal Pass
+"(46, 63)","(60, 44)",pass completed,Blue,Normal Pass
+"(60, 44)","(51, 56)",pass incomplete,Blue,Normal Pass
+"(46, 63)","(46, 63)",no pass attempted,Blue,Normal Pass
+"(46, 63)","(46, 63)",no pass attempted,Blue,Normal Pass
+"(46, 63)","(46, 63)",no pass attempted,Blue,Normal Pass
+"(50, 62)","(50, 62)",no pass attempted,Blue,Normal Pass
+"(50, 62)","(50, 62)",no pass attempted,Blue,Normal Pass
+"(50, 62)","(50, 62)",no pass attempted,Blue,Normal Pass
+"(50, 62)","(50, 62)",no pass attempted,Blue,Normal Pass
+"(50, 62)","(50, 62)",no pass attempted,Blue,Normal Pass
+"(50, 62)","(50, 62)",no pass attempted,Blue,Normal Pass
+"(50, 62)","(50, 62)",no pass attempted,Blue,Normal Pass
+"(50, 63)","(50, 63)",no pass attempted,Blue,Normal Pass
+"(49, 64)","(49, 64)",no pass attempted,Blue,Normal Pass
+"(49, 64)","(49, 64)",no pass attempted,Blue,Normal Pass
+"(49, 64)","(49, 64)",no pass attempted,Blue,Normal Pass
+"(49, 64)","(49, 64)",no pass attempted,Blue,Normal Pass
+"(49, 64)","(49, 64)",no pass attempted,Blue,Normal Pass
+"(49, 65)","(49, 65)",no pass attempted,Blue,Normal Pass
+"(48, 66)","(48, 66)",no pass attempted,Blue,Normal Pass
+"(48, 66)","(48, 66)",no pass attempted,Blue,Normal Pass
+"(48, 66)","(48, 66)",no pass attempted,Blue,Normal Pass
+"(47, 68)","(47, 68)",no pass attempted,Blue,Normal Pass
+"(47, 68)","(47, 68)",no pass attempted,Blue,Normal Pass
+"(47, 68)","(47, 68)",no pass attempted,Blue,Normal Pass
+"(47, 68)","(47, 68)",no pass attempted,Blue,Normal Pass
+"(47, 68)","(47, 68)",no pass attempted,Blue,Normal Pass
+"(47, 68)","(47, 68)",no pass attempted,Blue,Normal Pass
+"(47, 68)","(47, 68)",no pass attempted,Blue,Normal Pass
+"(47, 68)","(58, 60)",pass completed,Blue,Normal Pass
+"(58, 60)","(47, 69)",pass completed,Blue,Normal Pass
+"(46, 70)","(46, 70)",no pass attempted,Blue,Normal Pass
+"(46, 70)","(46, 70)",no pass attempted,Blue,Normal Pass
+"(46, 70)","(46, 70)",no pass attempted,Blue,Normal Pass
+"(46, 70)","(46, 70)",no pass attempted,Blue,Normal Pass
+"(46, 70)","(46, 70)",no pass attempted,Blue,Normal Pass
+"(46, 70)","(46, 70)",no pass attempted,Blue,Normal Pass
+"(46, 70)","(46, 70)",no pass attempted,Blue,Normal Pass
+"(46, 71)","(46, 71)",no pass attempted,Blue,Normal Pass
+"(45, 71)","(45, 71)",no pass attempted,Blue,Normal Pass
+"(45, 71)","(45, 71)",no pass attempted,Blue,Normal Pass
+"(45, 71)","(45, 71)",no pass attempted,Blue,Normal Pass
+"(45, 71)","(45, 71)",no pass attempted,Blue,Normal Pass
+"(45, 71)","(45, 71)",no pass attempted,Blue,Normal Pass
+"(45, 71)","(45, 71)",no pass attempted,Blue,Normal Pass
+"(45, 71)","(45, 71)",no pass attempted,Blue,Normal Pass
+"(45, 71)","(45, 71)",no pass attempted,Blue,Normal Pass
+"(45, 72)","(45, 72)",no pass attempted,Blue,Normal Pass
+"(45, 72)","(45, 72)",no pass attempted,Blue,Normal Pass
+"(40, 72)","(40, 72)",no pass attempted,Green,Normal Pass
+"(35, 68)","(35, 68)",no pass attempted,Green,Normal Pass
+"(35, 68)","(35, 68)",no pass attempted,Green,Normal Pass
+"(35, 68)","(53, 64)",pass completed,Green,Normal Pass
+"(53, 64)","(51, 46)",pass completed,Green,Normal Pass
+"(51, 46)","(32, 60)",pass incomplete,Green,Normal Pass
+"(32, 60)","(32, 60)",no pass attempted,Blue,Normal Pass
+"(32, 60)","(32, 60)",no pass attempted,Blue,Normal Pass
+"(32, 60)","(32, 60)",no pass attempted,Blue,Normal Pass
+"(31, 59)","(31, 59)",no pass attempted,Blue,Normal Pass
+"(31, 59)","(31, 59)",no pass attempted,Blue,Normal Pass
+"(31, 59)","(31, 59)",no pass attempted,Blue,Normal Pass
+"(31, 59)","(31, 59)",no pass attempted,Blue,Normal Pass
+"(31, 59)","(31, 59)",no pass attempted,Blue,Normal Pass
+"(31, 58)","(31, 58)",no pass attempted,Blue,Normal Pass
+"(31, 59)","(31, 59)",no pass attempted,Blue,Normal Pass
+"(31, 59)","(31, 59)",no pass attempted,Blue,Normal Pass
+"(31, 59)","(31, 59)",no pass attempted,Blue,Normal Pass
+"(31, 60)","(31, 60)",no pass attempted,Blue,Normal Pass
+"(31, 60)","(31, 60)",no pass attempted,Blue,Normal Pass
+"(31, 60)","(31, 60)",no pass attempted,Blue,Normal Pass
+"(31, 60)","(31, 60)",no pass attempted,Blue,Normal Pass
+"(31, 60)","(31, 60)",no pass attempted,Blue,Normal Pass
+"(30, 59)","(43, 32)",pass completed,Blue,Normal Pass
+"(43, 32)","(30, 59)",pass completed,Blue,Normal Pass
+"(30, 59)","(30, 59)",no pass attempted,Blue,Normal Pass
+"(30, 59)","(30, 59)",no pass attempted,Blue,Normal Pass
+"(30, 59)","(30, 59)",no pass attempted,Blue,Normal Pass
+"(30, 59)","(30, 59)",no pass attempted,Blue,Normal Pass
+"(30, 59)","(30, 59)",no pass attempted,Blue,Normal Pass
+"(30, 59)","(30, 59)",no pass attempted,Blue,Normal Pass
+"(30, 59)","(30, 59)",no pass attempted,Blue,Normal Pass
+"(30, 59)","(30, 59)",no pass attempted,Blue,Normal Pass
+"(30, 59)","(30, 59)",no pass attempted,Blue,Normal Pass
+"(30, 59)","(30, 59)",no pass attempted,Blue,Normal Pass
+"(30, 59)","(30, 59)",no pass attempted,Blue,Normal Pass
+"(30, 58)","(30, 58)",no pass attempted,Blue,Normal Pass
+"(29, 58)","(29, 58)",no pass attempted,Blue,Normal Pass
+"(28, 57)","(28, 57)",no pass attempted,Blue,Normal Pass
+"(28, 57)","(28, 57)",no pass attempted,Blue,Normal Pass
+"(28, 57)","(28, 57)",no pass attempted,Blue,Normal Pass
+"(27, 57)","(27, 57)",no pass attempted,Blue,Normal Pass
+"(27, 57)","(34, 44)",pass completed,Blue,Normal Pass
+"(30, 45)","(30, 45)",no pass attempted,Blue,Normal Pass
